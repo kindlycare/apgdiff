@@ -1,5 +1,8 @@
 # Another PostgreSQL Diff Tool (aka apgdiff)
 
+Iyobo's note: Please build from MASTER branch instead.
+
+
 Another PostgreSQL Diff Tool is free PostgreSQL diff tool that is useful for
 comparison/diffing of database schemas. You can find more information at its
 website at http://www.apgdiff.com/. If you found an issue in apgdiff, please
