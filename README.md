@@ -1,6 +1,6 @@
 # Another PostgreSQL Diff Tool (aka apgdiff)
 
-Iyobo's note: Please build from MASTER branch instead.
+## Iyobo's note: Please build from MASTER branch instead.
 
 
 Another PostgreSQL Diff Tool is free PostgreSQL diff tool that is useful for
